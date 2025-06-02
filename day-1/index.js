@@ -1,3 +1,5 @@
+// ES6 - Day 1: Operators and Variables
+
 const a = 3;
 const b = 4;
 const c = 5;
